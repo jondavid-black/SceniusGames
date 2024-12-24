@@ -1,0 +1,16 @@
+{
+    "extends": [
+        "next/core-web-vitals"
+    ],
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ],
+    "rules": {
+        "react/react-in-jsx-scope": "off", // Next.js doesn't require React to be in scope
+        "jsx-a11y/anchor-is-valid": "warn", // Warn about invalid anchor tags
+        "import/no-unresolved": "error", // Ensure imports are resolved
+        "no-unused-vars": "warn" // Warn about unused variables
+    }
+}
