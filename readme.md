@@ -7,13 +7,24 @@ Scenius can emerge from conditions such as: Mutual appreciation, Risky moves are
 
 Scenius Games is a collection of collaborative communication tools to help teams work better and shape their own scenius.
 
+## Assumptions
+
+We will assume that all team members have their own browser and are in a physical room or virtual meeting with voice (and perhaps video).  Each person's browser is private from other team members.
+
 ## Planning Poker
 
-Planning poker is a good way to improve team understanding and estimation.
+Planning poker is a good way to improve team understanding and estimation.  A story is presented to the team for discussion then each team member privately assigns a story point value.  Once all values are submitted they are revealed in unison.  The objective is to identify and resolve misunderstandings to refine the definition of the story for a common understanding.
 
 ## Lean Coffee
 
-Lean coffee is an open, structured approach to communication.
+Lean coffee is an open, structured approach to communication.  An area of discussion is established and individuals are given 5 minutes to write down specific topics or questions within the defined area on cards.  Cards are then ordered to stack duplicates.  The team is then given 5 minutes to vote by placing dots on cards.  Each team member has 3 dots they can place wherever they choose.  After all votes are collected, topics are rank ordered based on vote count and discussed in a kanban with 5 minutes on each card.  At the end of the 5 minute block for a card the team votes:
+- Thumbs up:  I have more to learn or share in this discussion and would like 5 more minutes.
+- Thumbs down:  I've learened all I need in this discussion and would like to move on.
+- Neutral:  I defer to my peers.
+
+## Priority Bake Sale
+
+Priority bake sale is a collective voting approach to establish priorities.  Every team member gets some amount of money which they can put against an item.  The more money an item gets by the end of the sale, the higher it's priority.
 
 ## Developer Notes
 
